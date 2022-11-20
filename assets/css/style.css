@@ -14,7 +14,7 @@ h2 {
 h3, 
 p,
 li {
-    color: green;
+    color: blueviolet;
 }
 
 img {
@@ -44,7 +44,7 @@ nav li {
 nav a {
     text-decoration: none;
     font-size: 1.6em;
-    color: green;
+    color: blueviolet;
     margin-right: 25px;
 }
 
@@ -66,7 +66,7 @@ nav a:hover {
 .service {
     display: inline-block;
     background-color: white;
-    border: 5px solid green;
+    border: 5px solid blueviolet;
     border-radius: 5px;
     color: darkred;
     font-size: 2em;
